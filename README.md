@@ -14,8 +14,8 @@ This is a repository that I have created to showcase skills, share projects and 
 - [About](https://github.com/tiffanynatasha/Data-Analytics-/blob/main/README.md#about)
 - [Projects](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#projects)
     - Python
-    1. [Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#analyzing-bellabeats-data-to-gain-insight-into-how-consumers-are-using-their-smart-devices)
-    2. [Analyzing Research Program Diversity and Post-Graduation Employment](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb)
+        1. [Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#analyzing-bellabeats-data-to-gain-insight-into-how-consumers-are-using-their-smart-devices)
+        2. [Analyzing Research Program Diversity and Post-Graduation Employment](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb)
     - Machine Learning
       1. [COVID-19 Death's Prediction](https://github.com/tiffanynatasha/COVID-19-analysis/blob/main/predict_death_covid_cases.ipynb)
       2. [Crypto Analysis](https://github.com/tiffanynatasha/Crypto-Analysis/blob/main/Crypto_API_final.ipynb)
