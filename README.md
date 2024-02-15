@@ -17,6 +17,8 @@ This is a repository that I have created to showcase skills, share projects and 
     1. [Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#analyzing-bellabeats-data-to-gain-insight-into-how-consumers-are-using-their-smart-devices)
     2. [Analyzing Research Program Diversity and Post-Graduation Employment](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb)
     - Machine Learning
+      1. [COVID-19 Death's Prediction](https://github.com/tiffanynatasha/COVID-19-analysis/blob/main/predict_death_covid_cases.ipynb)
+      2. [Crypto Analysis](https://github.com/tiffanynatasha/Crypto-Analysis/blob/main/Crypto_API_final.ipynb)
 ## Projects
 ### Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices.
 **Code:** [Analysis Code.ipynb](https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/Code.ipynb)
@@ -46,3 +48,35 @@ This is a repository that I have created to showcase skills, share projects and 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Results:** Based on our analysis, a certain race is very dominant on research program participation, so the board members should make the program more diverse. 
+
+
+### COVID-19 Death Prediction
+**Code:** [Machine Learning Code.ipynb](https://github.com/tiffanynatasha/COVID-19-analysis/blob/main/predict_death_covid_cases.ipynb)
+
+**Presentation:**[COVID-19 Powerpoint](https://github.com/tiffanynatasha/COVID-19-analysis/blob/main/Final%20Presentation%20IND%20ENG%20142.pdf)
+
+**Goal:** To predict COVID-19 patient's death based on patient's data
+
+**Description:** The project focused on applying machine learning techniques on patient's data. The data includes race, gender, age, hospitalization status, and vaccination status. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), creating data visualization, and applying machine learning models to data. 
+
+**Skills:** Data cleaning, data analysis, data visualization, and machine learning
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Sklearn
+
+**Results:** Vaccination helps decrease the number of COVID-19 cases, and thus an action to raise awareness of COVID-19 vaccination is needed. 
+
+
+### COVID-19 Crypto Analysis 
+**Code:** [Crypto Analysis Code.ipynb](https://github.com/tiffanynatasha/Crypto-Analysis/blob/main/Crypto_API_final.ipynb)
+
+**Presentation:**[Crypto Analysis Powerpoint](https://github.com/tiffanynatasha/Crypto-Analysis/blob/main/Crypto%20For%20Dummies.pptx)
+
+**Goal:** To predict each crypto coin's rating and put it into a leaderboard. 
+
+**Description:** The project started with web scraping crypto website to gather data. The data includes each crypto coin market capacity, price, and change percentage. The project involved loading the data, cleaning and preprocessing it,  applying machine learning models to produce the coin's rating, and then present it into a leaderboard website. 
+
+**Skills:** Web scraping, Data cleaning, and machine learning
+
+**Technology:** Python, Pandas, Numpy, SciPy, Sklearn, Anvil
+
+**Results:** A leaderboard of crypto coin based on our predicted ratings. 
