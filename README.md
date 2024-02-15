@@ -12,3 +12,22 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of Content
 - [About](https://github.com/tiffanynatasha/Data-Analytics-/blob/main/README.md#about)
+- Projects
+- - Python
+    1. Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices.
+  - Machine Learning
+## Projects
+### Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices.
+**Code:** [Analysis Code.ipynb](https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/Code.ipynb)
+**Presentation:** [Bellabeat Powerpoint](https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/%20Bellabeat%20Case%20Study%20Slide%20Presentation.pdf)
+
+**Goal:** To analyze customers' behavior on Bellabeat's smart device.
+
+**Description:** The project focused on analyzing a dataset of user's behavior data related to their activity, sleep, and stress habits. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), creating data visualization, and analyzing the correlation between activity and sleep. 
+
+**Skills:** Data cleaning, data analysis, and data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Based on our analysis, most users did not meet CDC guideline in terms of number of steps and hours of sleeps. Thus, Bellabeat should work on sleep improvement feature and push notifications to increase engagement on activity. 
+
