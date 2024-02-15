@@ -11,4 +11,4 @@ This is a repository that I have created to showcase skills, share projects and 
 
 
 ## Table of Content
-- [About]([https://www.example.com](https://github.com/tiffanynatasha/Data-Analytics-/edit/main/README.md)https://github.com/tiffanynatasha/Data-Analytics-/edit/main/README.md)
+- [About](https://github.com/tiffanynatasha/Data-Analytics-/blob/main/README.md#about)
