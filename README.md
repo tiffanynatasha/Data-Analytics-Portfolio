@@ -15,7 +15,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [Projects](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#projects)
     - Python
     1. [Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#analyzing-bellabeats-data-to-gain-insight-into-how-consumers-are-using-their-smart-devices)
-    2. [Analyzing Research Program Diversity and Post-Graduation Employment](https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/Code.ipynb](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb)
+    2. [Analyzing Research Program Diversity and Post-Graduation Employment](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb)
     - Machine Learning
 ## Projects
 ### Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices.
@@ -35,7 +35,7 @@ This is a repository that I have created to showcase skills, share projects and 
 
 
 ### Analyzing Research Program Diversity and Post-Graduation Employment
-**Code:** [Analysis Code.ipynb]([https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/Code.ipynb](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb))
+**Code:** [Analysis Code.ipynb](https://github.com/tiffanynatasha/URAP-/blob/main/Analysis.ipynb)
 
 **Goal:** To analyze the researh program's diversity and evaluate the program’s effectiveness by identifying the correlation between the program’s participation and post-graduation employment likelihood.
 
