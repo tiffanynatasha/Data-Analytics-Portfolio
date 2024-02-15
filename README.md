@@ -12,13 +12,14 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of Content
 - [About](https://github.com/tiffanynatasha/Data-Analytics-/blob/main/README.md#about)
-- Projects
+- [Projects](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#projects)
 - - Python
-    1. Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices.
+    1. [Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices](https://github.com/tiffanynatasha/Data-Analytics-/tree/main#analyzing-bellabeats-data-to-gain-insight-into-how-consumers-are-using-their-smart-devices)
   - Machine Learning
 ## Projects
 ### Analyzing BellaBeat's Data to Gain Insight into How Consumers are Using Their Smart Devices.
 **Code:** [Analysis Code.ipynb](https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/Code.ipynb)
+
 **Presentation:** [Bellabeat Powerpoint](https://github.com/tiffanynatasha/Bellabeat-Case-Study/blob/main/%20Bellabeat%20Case%20Study%20Slide%20Presentation.pdf)
 
 **Goal:** To analyze customers' behavior on Bellabeat's smart device.
